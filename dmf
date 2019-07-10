@@ -1,0 +1,176 @@
+[33mcommit caa038ecee5495820b852e8c2e2fd94166c517fa[m[33m ([m[1;36mHEAD -> [m[1;32mdev1[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/dev1[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Luana Nascimento <lluana13@hotmail.com>
+Date:   Wed Jul 10 18:24:03 2019 -0300
+
+    tentando instalar framework Play
+
+[33mcommit ac9c5255b7adee0d09195030528d0136a7d48a41[m[33m ([m[1;31morigin/semframework[m[33m)[m
+Author: Luana Nascimento <lluana13@hotmail.com>
+Date:   Wed Jul 10 00:21:16 2019 -0300
+
+    voltando para versao simples do udp
+
+[33mcommit 540b18e1a103bbae92bd441ff0afd668a161daae[m
+Author: Luana Nascimento <lluana13@hotmail.com>
+Date:   Tue Jul 9 23:39:40 2019 -0300
+
+    teste
+
+[33mcommit 7e431a71313cbc40da949e467d8f51193242fa48[m
+Author: Luana Nascimento <lluana13@hotmail.com>
+Date:   Tue Jul 9 23:31:24 2019 -0300
+
+    teste
+
+[33mcommit 3a4f3caadbfbe211f3e5408e7d667c5bffdf4de0[m
+Author: Luana Nascimento <lluana13@hotmail.com>
+Date:   Tue Jul 9 23:19:21 2019 -0300
+
+    tentando dar bind de outro jeito
+
+[33mcommit f78263e6694474e867aee46d8edf334c0e7c9bab[m
+Author: Luana Nascimento <lluana13@hotmail.com>
+Date:   Tue Jul 9 23:02:57 2019 -0300
+
+    removendo loop infinito e erro
+
+[33mcommit b2925c80a986dcb04d46bcfac9e8c31bc660381f[m
+Author: Luana Nascimento <lluana13@hotmail.com>
+Date:   Tue Jul 9 22:49:15 2019 -0300
+
+    criando um socket q nao vem já com bind
+
+[33mcommit 7c1542e5fb6c09ec321a43da4ef63e19a9e90799[m
+Merge: b4198bc 64f2c98
+Author: Luana Nascimento <lluana13@hotmail.com>
+Date:   Tue Jul 9 22:38:13 2019 -0300
+
+    Merge branch 'master' of https://github.com/LuanaFn/ufabc-ec1-peer
+
+[33mcommit b4198bce7879cf9608190c8e80755ca0b2148538[m
+Author: Luana Nascimento <lluana13@hotmail.com>
+Date:   Tue Jul 9 22:37:21 2019 -0300
+
+    dando bind na porta
+
+[33mcommit 64f2c9814a57cbf9fac21c7a6350fd4803e8578c[m
+Merge: ace8fb5 7a98228
+Author: Henrique <henriquebatista2504@hotmail.com>
+Date:   Tue Jul 9 22:29:27 2019 -0300
+
+    mudança para arquivo merge
+
+[33mcommit ace8fb5f7cb7b2a81150b46f7b0dded203ae1da8[m
+Author: Henrique <henriquebatista2504@hotmail.com>
+Date:   Tue Jul 9 22:27:05 2019 -0300
+
+    mudança para arquivo
+
+[33mcommit 7a982288fe6bfe50fa6e6a09c69c5f48e5b1f806[m
+Author: Luana Nascimento <lluana13@hotmail.com>
+Date:   Tue Jul 9 22:25:34 2019 -0300
+
+    adicionando indicação de quando o server inicia
+
+[33mcommit e03285549c302e13fa92817a9c58555e34a6c9ae[m
+Author: Luana Nascimento <lluana13@hotmail.com>
+Date:   Tue Jul 9 22:15:30 2019 -0300
+
+    voltando para procfile anterior
+
+[33mcommit 73b5e1c020a2c6c10a4a0a5370d7a418677a76e0[m
+Author: Luana Nascimento <lluana13@hotmail.com>
+Date:   Tue Jul 9 22:12:32 2019 -0300
+
+    voltando arquivo para web
+
+[33mcommit 39f4280fa18953d72b16d7e160accb9eccd9d1a9[m
+Author: Luana Nascimento <lluana13@hotmail.com>
+Date:   Tue Jul 9 21:54:30 2019 -0300
+
+    teste
+
+[33mcommit d5f866260d4c16e9e5ac9374cbd8ac39a736a0d9[m
+Author: Luana Nascimento <lluana13@hotmail.com>
+Date:   Tue Jul 9 21:50:02 2019 -0300
+
+    misturando solução da internet com a minha
+
+[33mcommit 7d2bc275c7d6f019f5684cd98d25f958897942c3[m
+Author: Luana Nascimento <lluana13@hotmail.com>
+Date:   Tue Jul 9 21:45:45 2019 -0300
+
+    tentando configurações que achei na internet
+
+[33mcommit 91861a2a29c0c2b15092f8bbfc51e7567977cb09[m
+Author: Luana Nascimento <lluana13@hotmail.com>
+Date:   Tue Jul 9 21:39:02 2019 -0300
+
+    verificando se o heroku passa alguma porta
+
+[33mcommit f027b828576b69187ff0ef330ebca74633145105[m
+Author: Luana Nascimento <lluana13@hotmail.com>
+Date:   Tue Jul 9 21:33:15 2019 -0300
+
+    tentando trocar porta para 5000
+
+[33mcommit 5ef4a70e4295cac3026d660d21bc42a31823a950[m
+Author: Luana Nascimento <lluana13@hotmail.com>
+Date:   Tue Jul 9 21:27:30 2019 -0300
+
+    ajustando mensagem informativa de porta e host
+
+[33mcommit 3cdb0e77c40c6b7c6627e2551a1fb9073c3fd1c6[m
+Author: Luana Nascimento <lluana13@hotmail.com>
+Date:   Tue Jul 9 21:23:39 2019 -0300
+
+    ajustando procfile
+
+[33mcommit c282ff25b7c3d6db4124738f7d514d9454e3e953[m
+Merge: 2f563b9 c9996e8
+Author: Luana Nascimento <lluana13@hotmail.com>
+Date:   Tue Jul 9 21:21:25 2019 -0300
+
+    removendo codigos com erro
+
+[33mcommit 2f563b9ac53a97ac593da53c214f97400f567b63[m
+Author: Luana Nascimento <lluana13@hotmail.com>
+Date:   Tue Jul 9 21:18:43 2019 -0300
+
+    alterando configuração para ter portas
+
+[33mcommit c9996e84ffdfa1ccd7cb228cdaa852cb3a5d65ef[m
+Author: Henrique <henriquebatista2504@hotmail.com>
+Date:   Tue Jul 9 20:55:14 2019 -0300
+
+    sql e leitura de arquivos funcionando
+
+[33mcommit 7ca2d6271c0168854d7df9ed20946378e6015666[m
+Author: Luana Nascimento <lluana13@hotmail.com>
+Date:   Sun Jun 30 22:22:22 2019 -0300
+
+    criando peer que fala consigo mesmo
+
+[33mcommit 81467f89d33a4cf1bf233a8b7e3113dd291c5965[m
+Author: Luana Nascimento <lluana13@hotmail.com>
+Date:   Sun Jun 30 21:07:42 2019 -0300
+
+    removendo dependencias desnecessarias
+
+[33mcommit 1694fa6cc9d0c766defb1b6acf6c825ad6fd3f8f[m
+Author: Luana Nascimento <lluana13@hotmail.com>
+Date:   Sun Jun 30 20:59:06 2019 -0300
+
+    removendo spring
+
+[33mcommit d63c2ed99201214194a955f2a106dd52109abe99[m
+Author: Luana Nascimento <lluana13@hotmail.com>
+Date:   Sun Jun 30 18:33:21 2019 -0300
+
+    teste retirada do spring
+
+[33mcommit ded41e5a13d73257ab656e90dd18e42ba401f120[m
+Author: Luana Nascimento <lluana13@hotmail.com>
+Date:   Sun Jun 30 20:50:56 2019 +0000
+
+    Initial commit

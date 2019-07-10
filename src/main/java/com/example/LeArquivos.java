@@ -1,6 +1,8 @@
 package com.example;
 
 import java.io.File;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
 
 public class LeArquivos {
 	
@@ -24,6 +26,21 @@ public class LeArquivos {
 	
 	public File[] listaArquivos() {
 		return arquivos;
+	}
+	
+	public String[][] retornaEstado(File[] arquivos,String nomePeer) {
+		String[][] estados = null ;
+		Calendar cal = Calendar.getInstance();
+		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-mm-dd HH:mm:ss");
+		String data = sdf.format(cal.getTime());
+		for (int i = 0; i < arquivos.length; i++) {
+			estados[i][0] = arquivos[i].toString();
+			estados[i][1] = nomePeer;
+			estados[i][2] = data;
+			
+		}
+		return estados;
+		
 	}
 	
 }
