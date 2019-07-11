@@ -48,7 +48,7 @@ public class Arquivo {
     public void gravaProprio() throws IOException {
     	LeArquivos le = new LeArquivos();
     	Calendar cal = Calendar.getInstance();
-		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-mm-dd HH:mm:ss");
+		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 		String data = sdf.format(cal.getTime());
 
 		le.le();

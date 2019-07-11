@@ -42,9 +42,17 @@ public class Main {
 //		client.sendEcho("hello server");
 //		client.sendEcho("server is working");
 		LeArquivos le = new LeArquivos();
+		le.le();
 		File[] Lista = le.listaArquivos();
 		String[][] estadoProprio = le.retornaEstado(Lista, "nomePeer");
-		
+		String[][] estadoGeral =null;
+
+		if(estadoGeral==null&&estadoProprio!=null) {
+			estadoGeral=estadoProprio;
+//			System.out.println(estadoGeral[0][0]+estadoGeral[0][1]+estadoGeral[0][2]);
+		}
+
+	
 
 	}
 
